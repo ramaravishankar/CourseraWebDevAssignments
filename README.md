@@ -3,4 +3,5 @@ Contains the solutions to the weekly assignments of John Hopkins University's <i
 
 [Assignment 2 solution link](https://ramaravishankar.github.io/CourseraWebDevAssignments/module2-assignment/)</br>
 [Assignment 3 solution link](https://ramaravishankar.github.io/CourseraWebDevAssignments/module3-assignment/)</br>
-[Assignment 4 solution link](https://ramaravishankar.github.io/CourseraWebDevAssignments/module4-assignment/)
+[Assignment 4 solution link](https://ramaravishankar.github.io/CourseraWebDevAssignments/module4-assignment/)</br>
+[Assignment 5 solution link](https://ramaravishankar.github.io/CourseraWebDevAssignments/module5-assignment/)
